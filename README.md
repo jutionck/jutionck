@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Now I'm focusing on Java, please check the pin below, 😊 
+Now I'm focusing on PHP, Golang, Flutter, Javascript, Kotlin, Java and others, please check my repository 😊 
 
 <!--
 **jutionck/jutionck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
