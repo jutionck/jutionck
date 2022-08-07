@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Now I'm focusing on PHP, Golang, Flutter, Javascript, Kotlin, Java and others, please check my repository 😊 
+Current programming language: PHP, Golang, Angular, React, Flutter, Javascript, NodeJs, Kotlin, Java, please check my repository 😊 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Golang, Flutter and Java
+- 🌱 Don't stop learn
 - 📫 How to reach me: [email] jutionck@gmail.com [ig] jutionck
